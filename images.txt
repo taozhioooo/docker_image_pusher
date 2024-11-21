@@ -1,1 +1,7 @@
---platform=linux/arm64 registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+--platform=linux/arm64 kubesphere/ks-controller-manager:v4.1.2
+--platform=linux/arm64 kubesphere/kubectl:v1.27.16
+--platform=linux/arm64 kubesphere/redis:7.2.4-alpine
+--platform=linux/arm64 kubesphere/haproxy:2.9.6-alpine
+--platform=linux/arm64 kubesphere/ks-extensions-museum:v1.1.2
+--platform=linux/arm64 kubesphere/ks-console:v4.1.2
+--platform=linux/arm64 kubesphere/ks-apiserver:v4.1.2
