@@ -1,1 +1,1 @@
---platform=linux/arm64 kubesphere/whizard-telemetry-apiserver:v1.2.2
+--platform=linux/arm64 frezes/whizard-telemetry-apiserver:v1.0.0-beta.0
