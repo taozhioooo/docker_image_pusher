@@ -1,0 +1,12 @@
+--platform=linux/arm64 kubesphere/kubectl:v1.27.12
+--platform=linux/arm64 quay.io/prometheus/prometheus:v2.51.2
+--platform=linux/arm64 quay.io/prometheus-operator/prometheus-operator:v0.75.1
+--platform=linux/arm64 docker.io/kubespheredev/kube-webhook-certgen:v20221220-controller-v1.5.1-58-g787ea74b6
+--platform=linux/arm64 quay.io/prometheus-operator/prometheus-config-reloader:v0.75.1
+--platform=linux/arm64/v8 kubesphere/kube-state-metrics:v2.12.0
+--platform=linux/arm64 quay.io/brancz/kube-rbac-proxy:v0.18.0
+--platform=linux/arm64 quay.io/prometheus/node-exporter:v1.8.1
+--platform=linux/arm64 quay.io/brancz/kube-rbac-proxy:v0.18.0
+--platform=linux/arm64 kubesphere/process-exporter:0.5.0
+--platform=linux/arm64 kubesphere/calico-exporter:v0.3.0
+--platform=linux/arm64 kubesphere/dcgm-exporter:3.3.5-3.4.0-ubuntu22.04
