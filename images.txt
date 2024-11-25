@@ -1,3 +1,1 @@
---platform=linux/arm64 kubesphere/nginx-ingress-controller:v1.4.0
---platform=linux/arm64 kubesphere/gateway-apiserver:v1.0.2
---platform=linux/arm64 kubesphere/gateway-controller-manager:v1.0.2
+--platform=linux/arm64 kubesphere/apps-manage:v2.0.1
