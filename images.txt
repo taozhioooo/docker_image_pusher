@@ -1,1 +1,1 @@
---platform=linux/arm64 kubesphere/apps-manage:v2.0.1
+--platform=linux/arm64 bitnami/zookeeper:3.9.3-debian-12-r0
