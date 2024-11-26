@@ -1,1 +1,1 @@
---platform=linux/arm64 bitnami/mysql:8.0.39
+--platform=linux/arm64/v8 liarbry/ubuntu:24.04
