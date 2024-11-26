@@ -1,1 +1,2 @@
---platform=linux/arm64/v8 ubuntu:24.04
+--platform=linux/arm64 opensearchproject/opensearch:2.8.0
+--platform=linux/arm64 opensearchproject/opensearch-dashboards:2.8.0
