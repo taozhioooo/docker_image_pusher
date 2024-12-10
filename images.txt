@@ -1,1 +1,1 @@
-quay.io/coreos/flannel:v0.10.0
+--platform=linux/arm64 bitnami/zookeeper:3.9.2-debian-12-r12
