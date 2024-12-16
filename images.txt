@@ -1,1 +1,1 @@
---platform=linux/arm64 bitnami/zookeeper:3.7.2
+--platform=linux/arm64 ygqygq2/fastdfs-nginx:V6.9.4
